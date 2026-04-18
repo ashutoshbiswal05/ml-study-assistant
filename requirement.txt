@@ -1,7 +1,0 @@
-streamlit
-chromadb
-sentence-transformers
-langchain
-langchain-groq
-langgraph
-python-dotenv
